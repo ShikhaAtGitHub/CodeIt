@@ -18,5 +18,6 @@ The questions are organized topic-wise in Jupyter Notebooks (.ipynb) for easy na
 - Topic-wise breakdown for focused preparation
 - Interactive Jupyter Notebook format for better understanding
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 Resources from Take U Forward (https://takeuforward.org/) and LeetCode (https://leetcode.com/) have been incredibly helpful in preparing the content of this repository.
