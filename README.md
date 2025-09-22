@@ -1,7 +1,9 @@
-### Amazon (and Similar Companies) Interview Prep
+### Amazon (and Similar Companies) Interview Prep | Any suggestions to the repo are welcomed.
 
 This repository contains frequently asked interview questions at Amazon and other top tech companies.
 The questions are organized topic-wise in Jupyter Notebooks (.ipynb) for easy navigation and hands-on practice.
+
+
 
 📂 Contents
 
